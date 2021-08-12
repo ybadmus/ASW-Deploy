@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/asw-gh-pages/static/css/main.3d0ad4d0.chunk.css",
+    "main.js": "/asw-gh-pages/static/js/main.679d5168.chunk.js",
+    "main.js.map": "/asw-gh-pages/static/js/main.679d5168.chunk.js.map",
+    "runtime-main.js": "/asw-gh-pages/static/js/runtime-main.f3d9b48f.js",
+    "runtime-main.js.map": "/asw-gh-pages/static/js/runtime-main.f3d9b48f.js.map",
+    "static/css/2.841443a6.chunk.css": "/asw-gh-pages/static/css/2.841443a6.chunk.css",
+    "static/js/2.b121e1e4.chunk.js": "/asw-gh-pages/static/js/2.b121e1e4.chunk.js",
+    "static/js/2.b121e1e4.chunk.js.map": "/asw-gh-pages/static/js/2.b121e1e4.chunk.js.map",
+    "index.html": "/asw-gh-pages/index.html",
+    "precache-manifest.ec0de0ddbf4cd4d2c6b0c424e70a677c.js": "/asw-gh-pages/precache-manifest.ec0de0ddbf4cd4d2c6b0c424e70a677c.js",
+    "service-worker.js": "/asw-gh-pages/service-worker.js",
+    "static/css/2.841443a6.chunk.css.map": "/asw-gh-pages/static/css/2.841443a6.chunk.css.map",
+    "static/css/main.3d0ad4d0.chunk.css.map": "/asw-gh-pages/static/css/main.3d0ad4d0.chunk.css.map",
+    "static/js/2.b121e1e4.chunk.js.LICENSE.txt": "/asw-gh-pages/static/js/2.b121e1e4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/asw-gh-pages/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d9b48f.js",
+    "static/css/2.841443a6.chunk.css",
+    "static/js/2.b121e1e4.chunk.js",
+    "static/css/main.3d0ad4d0.chunk.css",
+    "static/js/main.679d5168.chunk.js"
+  ]
+}
